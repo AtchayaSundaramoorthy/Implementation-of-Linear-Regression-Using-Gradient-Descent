@@ -80,10 +80,10 @@ print(f"Predicted value: {predicted_value}")
 ```
 
 ## Output:
-![image](https://github.com/RANJEETH17/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120718823/bab9c368-59e5-4d03-8875-804787e051b4)
-![image](https://github.com/RANJEETH17/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120718823/f4bf0791-1979-4b1c-a5e3-eba53449989c)
 
+![image](https://github.com/AtchayaSundaramoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393516/964a0cbc-613f-4af6-ba97-b05e3655d348)
 
+![image](https://github.com/AtchayaSundaramoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393516/105d85d1-a70d-473a-b56b-3dac073fa413)
 
 
 ## Result:
